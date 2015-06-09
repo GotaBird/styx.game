@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "henry-sprite-right.png",
+	"frame": {"x":2,"y":2,"w":780,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":780,"h":177},
+	"sourceSize": {"w":780,"h":177},
+	"pivot": {"x":0,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "h-run-right.png",
+	"format": "RGBA8888",
+	"size": {"w":784,"h":181},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3e2f2d7b44c51da482c32d66a2e6d532:72ed16fd85690eb445171918b58f7060:e0a5a15b1f087fbf69fc2429a0d8d12d$"
+}
+}
